@@ -1,6 +1,6 @@
 # Repositório do Desafio de Projeto sobre Git/GitHub da DIO 👾
 ## Desafio de projeto sobre Git/GitHub
-### The Big Six of England
+### The Big Six of England ⚽ 🏆 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 1. Manchester United
 2. Liverpool
 3. Chelsea
