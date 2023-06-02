@@ -1,6 +1,11 @@
 # Repositório do Desafio de Projeto sobre Git/GitHub da DIO 👾
 ## Desafio de projeto sobre Git/GitHub
+
+O campeonato inglês por muitos anos vem sendo considerado o mais disputado do mundo.<br>
+Abaixo podemos ver o motivo:
+
 ### The Big Six of England ⚽ 🏆 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
 1. Manchester United
 2. Liverpool
 3. Chelsea
